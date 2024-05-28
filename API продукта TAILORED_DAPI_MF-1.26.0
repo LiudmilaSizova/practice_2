@@ -1,0 +1,24 @@
+openapi/v1/agents?agentId=5299
+
+
+{
+    "items": [
+        {
+            "agentId": 5299,
+            "agentName": "08085061AB918",
+            "agentContractNumber": "ОО_SB",
+            "externalAgentId": 475361,
+            "agentBalances": [],
+            "serviceProvider": {
+                "serviceProviderId": 1,
+                "code": "MF",
+                "name": "МегаФон"
+            }
+        }
+    ],
+    "listInfo": {
+        "count": 4,
+        "offset": 0,
+        "limit": 20
+    }
+}
