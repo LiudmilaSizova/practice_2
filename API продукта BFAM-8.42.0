@@ -1,0 +1,68 @@
+openapi/v1/dictionaries/adjustments/adjustmentTypes
+
+
+{
+    "listInfo": null,
+    "items": [
+        {
+            "adjustmentTypeId": 7,
+            "name": "Биллинговая скидка"
+        },
+        {
+            "adjustmentTypeId": 8,
+            "name": "Бонусная программа клиентов"
+        },
+        {
+            "adjustmentTypeId": 12,
+            "name": "Вызовы предыдущих периодов"
+        },
+        {
+            "adjustmentTypeId": 11,
+            "name": "Корректировка ВНР начисления"
+        },
+        {
+            "adjustmentTypeId": 3,
+            "name": "Корректировка начислений"
+        },
+        {
+            "adjustmentTypeId": 2,
+            "name": "Корректировка платежей"
+        },
+        {
+            "adjustmentTypeId": 13,
+            "name": "Мобильный платеж"
+        },
+        {
+            "adjustmentTypeId": 6,
+            "name": "Начисление процентов"
+        },
+        {
+            "adjustmentTypeId": 4,
+            "name": "Перенос баланса на ..."
+        },
+        {
+            "adjustmentTypeId": 5,
+            "name": "Перенос баланса с ..."
+        },
+        {
+            "adjustmentTypeId": 16,
+            "name": "Синхронизация бал. GF и LG"
+        },
+        {
+            "adjustmentTypeId": 14,
+            "name": "Списание ДЗ"
+        },
+        {
+            "adjustmentTypeId": 15,
+            "name": "Списание КЗ"
+        },
+        {
+            "adjustmentTypeId": 9,
+            "name": "Технологический"
+        },
+        {
+            "adjustmentTypeId": 10,
+            "name": "Финансовый аккумулятор"
+        }
+    ]
+}
